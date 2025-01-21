@@ -13,6 +13,8 @@ udp://100.68.49.38:44257
 udp://100.68.49.38:44494
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕移动",咪咕直播4K Ⅱ
 udp://100.68.49.38:59439
+#EXTINF:-1 tvg-name="cctv2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="歌华频道",cctv2
+http://audiovisual.vsd.gehua.net.cn:80/live/CCTV2HD_1200.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕移动",咪咕直播 1
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="咪咕移动",咪咕直播 2
