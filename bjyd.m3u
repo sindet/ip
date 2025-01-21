@@ -327,3 +327,5 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.cn/tv/咪咕体育.png"group-title="咪咕体育",咪咕直播32
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="北京纪实科教8K" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png"group-title="体验频道",纪实科教8K（移动）
+udp://100.68.49.38:44257
