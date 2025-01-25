@@ -313,13 +313,13 @@ http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV17
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cctv17
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="央视频道",CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV1
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv1
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="央视频道",CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV2
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv2
-#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://live.fanmingming.cn/tv/CETV3.png" group-title="央视频道",CETV3
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://live.fanmingming.cn/tv/CETV3.png" group-title="卫视频道",CETV3
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv3
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="央视频道",CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV4
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetv4
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://live.fanmingming.cn/tv/CCTV第一剧场.png" group-title="央视频道",CCTV第一剧场
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dyjc
@@ -347,11 +347,11 @@ http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fyyy
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gefwq
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cgtn
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="卫视频道",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png" group-title="北京频道",凤凰中文
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png" group-title="北京频道",凤凰资讯
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png" group-title="北京频道",凤凰香港
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fhxg
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cqws
@@ -363,7 +363,7 @@ http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=zjws
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dfws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=szws
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="北京频道",北京卫视
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=bjws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=sdws
@@ -439,131 +439,11 @@ http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jjkt
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xdkt
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="卫视频道",优漫卡通
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=ymkt
-#EXTINF:-1 tvg-name="江苏仪化" tvg-logo="https://live.fanmingming.cn/tv/江苏仪化.png" group-title="江苏频道",江苏仪化
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsyh
-#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.cn/tv/江苏体育.png" group-title="江苏频道",江苏体育
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsty
-#EXTINF:-1 tvg-name="江苏公共" tvg-logo="https://live.fanmingming.cn/tv/江苏公共.png" group-title="江苏频道",江苏公共
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsgg
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.cn/tv/江苏城市.png" group-title="江苏频道",江苏城市
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jscs
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.cn/tv/江苏影视.png" group-title="江苏频道",江苏影视
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsys
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.cn/tv/江苏教育.png" group-title="江苏频道",江苏教育
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsjy
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.cn/tv/江苏综艺.png" group-title="江苏频道",江苏综艺
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jszy
-#EXTINF:-1 tvg-name="南京信息" tvg-logo="https://live.fanmingming.cn/tv/南京信息.png" group-title="江苏频道",南京信息
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njxx
-#EXTINF:-1 tvg-name="南京十八" tvg-logo="https://live.fanmingming.cn/tv/南京十八.png" group-title="江苏频道",南京十八
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njsb
-#EXTINF:-1 tvg-name="南京娱乐" tvg-logo="https://live.fanmingming.cn/tv/南京娱乐.png" group-title="江苏频道",南京娱乐
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njyl
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://live.fanmingming.cn/tv/南京少儿.png" group-title="江苏频道",南京少儿
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njse
-#EXTINF:-1 tvg-name="南京影视" tvg-logo="https://live.fanmingming.cn/tv/南京影视.png" group-title="江苏频道",南京影视
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njys
-#EXTINF:-1 tvg-name="南京教科" tvg-logo="https://live.fanmingming.cn/tv/南京教科.png" group-title="江苏频道",南京教科
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njjk
-#EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://live.fanmingming.cn/tv/南京新闻.png" group-title="江苏频道",南京新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njxw
-#EXTINF:-1 tvg-name="南京生活" tvg-logo="https://live.fanmingming.cn/tv/南京生活.png" group-title="江苏频道",南京生活
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=njsh
-#EXTINF:-1 tvg-name="南通一套" tvg-logo="https://live.fanmingming.cn/tv/南通一套.png" group-title="江苏频道",南通一套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsnttv1
-#EXTINF:-1 tvg-name="南通二套" tvg-logo="https://live.fanmingming.cn/tv/南通二套.png" group-title="江苏频道",南通二套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsnttv2
-#EXTINF:-1 tvg-name="东海文娱" tvg-logo="https://live.fanmingming.cn/tv/东海文娱.png" group-title="江苏频道",东海文娱
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dhtv2
-#EXTINF:-1 tvg-name="东海新闻" tvg-logo="https://live.fanmingming.cn/tv/东海新闻.png" group-title="江苏频道",东海新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=dhtv1
-#EXTINF:-1 tvg-name="徐州公共" tvg-logo="https://live.fanmingming.cn/tv/徐州公共.png" group-title="江苏频道",徐州公共
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xztv4
-#EXTINF:-1 tvg-name="徐州影视" tvg-logo="https://live.fanmingming.cn/tv/徐州影视.png" group-title="江苏频道",徐州影视
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xztv3
-#EXTINF:-1 tvg-name="徐州新沂" tvg-logo="https://live.fanmingming.cn/tv/徐州新沂.png" group-title="江苏频道",徐州新沂
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzxytv
-#EXTINF:-1 tvg-name="徐州新闻" tvg-logo="https://live.fanmingming.cn/tv/徐州新闻.png" group-title="江苏频道",徐州新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xztv1
-#EXTINF:-1 tvg-name="徐州经济" tvg-logo="https://live.fanmingming.cn/tv/徐州经济.png" group-title="江苏频道",徐州经济
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xztv2
-#EXTINF:-1 tvg-name="常州公共" tvg-logo="https://live.fanmingming.cn/tv/常州公共.png" group-title="江苏频道",常州公共
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cztv4
-#EXTINF:-1 tvg-name="常州新闻" tvg-logo="https://live.fanmingming.cn/tv/常州新闻.png" group-title="江苏频道",常州新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cztv1
-#EXTINF:-1 tvg-name="常州生活" tvg-logo="https://live.fanmingming.cn/tv/常州生活.png" group-title="江苏频道",常州生活
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cztv3
-#EXTINF:-1 tvg-name="常州都市" tvg-logo="https://live.fanmingming.cn/tv/常州都市.png" group-title="江苏频道",常州都市
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cztv2
-#EXTINF:-1 tvg-name="沛县新闻" tvg-logo="https://live.fanmingming.cn/tv/沛县新闻.png" group-title="江苏频道",沛县新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzpxtv1
-#EXTINF:-1 tvg-name="沛县生活" tvg-logo="https://live.fanmingming.cn/tv/沛县生活.png" group-title="江苏频道",沛县生活
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzpxtv3
-#EXTINF:-1 tvg-name="沛县综艺" tvg-logo="https://live.fanmingming.cn/tv/沛县综艺.png" group-title="江苏频道",沛县综艺
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzpxtv2
-#EXTINF:-1 tvg-name="泰州一套" tvg-logo="https://live.fanmingming.cn/tv/泰州一套.png" group-title="江苏频道",泰州一套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tztv1
-#EXTINF:-1 tvg-name="泰州二套" tvg-logo="https://live.fanmingming.cn/tv/泰州二套.png" group-title="江苏频道",泰州二套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tztv2
-#EXTINF:-1 tvg-name="泰州三套" tvg-logo="https://live.fanmingming.cn/tv/泰州三套.png" group-title="江苏频道",泰州三套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tztv3
-#EXTINF:-1 tvg-name="盐城一套" tvg-logo="https://live.fanmingming.cn/tv/盐城一套.png" group-title="江苏频道",盐城一套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=yctv1
-#EXTINF:-1 tvg-name="盐城二套" tvg-logo="https://live.fanmingming.cn/tv/盐城二套.png" group-title="江苏频道",盐城二套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=yctvtv2
-#EXTINF:-1 tvg-name="盐城三套" tvg-logo="https://live.fanmingming.cn/tv/盐城三套.png" group-title="江苏频道",盐城三套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=yctvtv3
-#EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://live.fanmingming.cn/tv/睢宁综合.png" group-title="江苏频道",睢宁综合
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzsntv1
-#EXTINF:-1 tvg-name="睢宁资讯" tvg-logo="https://live.fanmingming.cn/tv/睢宁资讯.png" group-title="江苏频道",睢宁资讯
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzsntv2
-#EXTINF:-1 tvg-name="睢宁生活" tvg-logo="https://live.fanmingming.cn/tv/睢宁生活.png" group-title="江苏频道",睢宁生活
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzsntv3
-#EXTINF:-1 tvg-name="睢宁三农" tvg-logo="https://live.fanmingming.cn/tv/睢宁三农.png" group-title="江苏频道",睢宁三农
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=xzsntv4
-#EXTINF:-1 tvg-name="连云港新闻" tvg-logo="https://live.fanmingming.cn/tv/连云港新闻.png" group-title="江苏频道",连云港新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=lygtv1
-#EXTINF:-1 tvg-name="连云港公共" tvg-logo="https://live.fanmingming.cn/tv/连云港公共.png" group-title="江苏频道",连云港公共
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=lygtv2
-#EXTINF:-1 tvg-name="邳州综合" tvg-logo="https://live.fanmingming.cn/tv/邳州综合.png" group-title="江苏频道",邳州综合
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=pztv1
-#EXTINF:-1 tvg-name="邳州综艺" tvg-logo="https://live.fanmingming.cn/tv/邳州综艺.png" group-title="江苏频道",邳州综艺
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=pztv2
-#EXTINF:-1 tvg-name="铜山一套" tvg-logo="https://live.fanmingming.cn/tv/铜山一套.png" group-title="江苏频道",铜山一套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tstv1
-#EXTINF:-1 tvg-name="铜山二套" tvg-logo="https://live.fanmingming.cn/tv/铜山二套.png" group-title="江苏频道",铜山二套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tstv2
-#EXTINF:-1 tvg-name="铜山三套" tvg-logo="https://live.fanmingming.cn/tv/铜山三套.png" group-title="江苏频道",铜山三套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tstv3
-#EXTINF:-1 tvg-name="铜山四套" tvg-logo="https://live.fanmingming.cn/tv/铜山四套.png" group-title="江苏频道",铜山四套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=tstv4
-#EXTINF:-1 tvg-name="镇江一套" tvg-logo="https://live.fanmingming.cn/tv/镇江一套.png" group-title="江苏频道",镇江一套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jszjtv1
-#EXTINF:-1 tvg-name="镇江二套" tvg-logo="https://live.fanmingming.cn/tv/镇江二套.png" group-title="江苏频道",镇江二套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jszjtv2
-#EXTINF:-1 tvg-name="镇江三套" tvg-logo="https://live.fanmingming.cn/tv/镇江三套.png" group-title="江苏频道",镇江三套
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jszjtv3
-#EXTINF:-1 tvg-name="江都频道" tvg-logo="https://live.fanmingming.cn/tv/江都频道.png" group-title="江苏频道",江都频道
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=yzjdtv
-#EXTINF:-1 tvg-name="赣榆新闻" tvg-logo="https://live.fanmingming.cn/tv/赣榆新闻.png" group-title="江苏频道",赣榆新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=gytv
-#EXTINF:-1 tvg-name="公共崇川" tvg-logo="https://live.fanmingming.cn/tv/公共崇川.png" group-title="江苏频道",公共崇川
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=jsntsantao
-#EXTINF:-1 tvg-name="宿迁综合" tvg-logo="https://live.fanmingming.cn/tv/宿迁综合.png" group-title="江苏频道",宿迁综合
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=sqtv1
-#EXTINF:-1 tvg-name="宿迁公共" tvg-logo="https://live.fanmingming.cn/tv/宿迁公共.png" group-title="江苏频道",宿迁公共
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=sqtv2
-#EXTINF:-1 tvg-name="宝应新闻" tvg-logo="https://live.fanmingming.cn/tv/宝应新闻.png" group-title="江苏频道",宝应新闻
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=bytv1
-#EXTINF:-1 tvg-name="宝应生活" tvg-logo="https://live.fanmingming.cn/tv/宝应生活.png" group-title="江苏频道",宝应生活
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=bytv2
-#EXTINF:-1 tvg-name="早期教育" tvg-logo="https://live.fanmingming.cn/tv/早期教育.png" group-title="体验频道",早期教育
-http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=cetvzqjy
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://live.fanmingming.cn/tv/发现之旅.png" group-title="体验频道",发现之旅
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=fxzl
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://live.fanmingming.cn/tv/老故事.png" group-title="体验频道",老故事
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=lgs
-#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="体验频道",欢笑剧场4K
+#EXTINF:-1 tvg-name="欢笑剧场4K" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场4K.png" group-title="央视频道",欢笑剧场4K
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=hxjc
 #EXTINF:-1 tvg-name="上海纪实" tvg-logo="https://live.fanmingming.cn/tv/上海纪实.png" group-title="体验频道",上海纪实
 http://cqshushu.us.kg:2086/公众号【医工学习日志】/jiangsu.php?id=shjs
@@ -1487,11 +1367,11 @@ http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.co
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225639/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226445/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV-1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="卫视频道",CETV1
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225652/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="卫视频道",CETV2
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="卫视频道",CETV4
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
@@ -1653,11 +1533,11 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视频道",凤凰资讯
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="北京频道",凤凰资讯
 http://148.135.93.213:81/phenix.php?id=fhzx
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视频道",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="北京频道",凤凰中文
 http://148.135.93.213:81/phenix.php?id=fhzw
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="卫视频道",凤凰香港
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" http-user-agent="iPhone" group-title="北京频道",凤凰香港
 http://148.135.93.213:81/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="北京频道",北京卫视
 http://148.135.93.213:81/live.php?id=北京卫视
