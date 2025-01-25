@@ -161,7 +161,7 @@ http://192.168.28.1:23234/rtp/228.1.1.142:8002
 http://192.168.28.1:23234/rtp/228.1.1.20:8060
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.cn/tv/金鹰纪实.png" group-title="体验频道",金鹰纪实
 http://192.168.28.1:23234/rtp/228.1.1.34:8156
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="卫视频道",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="体验频道",金鹰卡通
 http://192.168.28.1:23234/rtp/228.1.1.92:9252
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.cn/tv/嘉佳卡通.png" group-title="体验频道",嘉佳卡通
 http://192.168.28.1:23234/rtp/228.1.1.93:9268
@@ -1449,7 +1449,7 @@ http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.co
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.fanmingming.cn/tv/晴彩中原.png" group-title="体验频道",睛彩广场舞
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226482/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
-#EXTINF:-1 tvg-name="晴彩青少" tvg-logo="https://live.fanmingming.cn/tv/晴彩青少.png" group-title="体验频道",晴彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="体验频道",睛彩青少
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.fanmingming.cn/tv/咪咕视频.png" group-title="咪咕体育",咪咕视频
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226398/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
