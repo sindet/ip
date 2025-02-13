@@ -1,26 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~I0Rkc6neBYgfpoJ1yud8Fw~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz_7pvDimJNPAP4UJ9bY8mj3RcXbpDq31~END
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~cnoJZdsZxCC6bZYZh4R6g~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz7pvDimJNOqSSXdhT8y3fhHgo4JQduI~END
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~5BgmhczIl26vs7ShVB3CnQ~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz_7pvDimJNOxSgMVww8vJNVqtax9VE2p~END
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~BFJ5gRpm8ntK8JEFPZOhLQ~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U~END
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~evWZ0zmguDsOYMf3SM5TA~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz7pvDimJNOxSgMVww8vJNVqtax9VE2p~END
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~evWZ0zmguDsOYMf3SM5TA~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz7pvDimJNOxSgMVww8vJNVqtax9VE2p~END
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~gdZMBjOTdDWVEgovFkZoew~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-~END
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV7  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~2bEVzkW1hRnWmsZq6rlbw~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz7pvDimJNOuQYJeiYEeFWTkFfE86Vq-~END
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226008/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~XOsrWMA-UCdUl1hQSR9EKw~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-~END  
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV9  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~gdZMBjOTdDWVEgovFkZoew~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-~END
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV10  
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=~EV2.0~gbbk6OxyTS2utbJWm7Qw1w~eNUbgU9sJGUcVVduOMKhafLvQUgEzlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-~END
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="北京频道",纪实科教
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.cn/tv/北京财经.png" group-title="北京频道",北京财经
@@ -133,8 +113,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="丽江新闻综合" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="北京频道",丽江新闻综合
 https://live3f.lijiang.cn/live/tvzh_720p.m3u8
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV1
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV2
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV4
