@@ -95,8 +95,6 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType
 http://39.135.133.157/wh7f454c46tw2037044632_2010184924/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225654/index.m3u8?icpid=88888888&RTS=1736916876&from=23&hms_devid=1247&vqe=3
 #EXTINF:-1 group-title="北京频道",卡酷少儿
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 group-title="北京频道",卡酷少儿
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="北京频道",重温经典
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg58chGORQFpH6J3zm0kF5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPAP4UJ9bY8mj3RcXbpDq31%2CEND
 #EXTINF:-1 group-title="卫视频道",江苏卫视
@@ -465,64 +463,6 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=3
 #EXTINF:-1 group-title="北京频道",丽江新闻综合
 https://live3f.lijiang.cn/live/tvzh_720p.m3u8
-#EXTINF:-1 group-title="春节晚会",2025央视春晚
-https://cdn.ryplay10.com/20250129/36100_66597b7c/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025央视春晚
-https://play.modujx11.com/20250129/w9lu17BW/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025央视网络春晚
-https://v.cdnlz21.com/20250122/4691_6738b628/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025央视网络春晚
-https://cdn.ryplay10.com/20250122/35801_30342d7e/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025央视网络春晚
-https://play.modujx11.com/20250122/PuyT8Jk5/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025北京春晚
-https://play.modujx11.com/20250130/KEdC3rWl/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025吉林春晚
-https://cdn.ryplay10.com/20250126/35971_c32a136b/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025吉林春晚
-https://v.cdnlz21.com/20250126/4862_b5485261/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025东方卫视春晚
-https://cdn.ryplay10.com/20250130/36137_74d8136b/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025东方卫视春晚
-https://svipsvip.ffzyread1.com/20250130/35479_aa1ec909/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025东方卫视春晚
-https://v.cdnlz21.com/20250130/5033_1ab50b18/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025湖南春晚
-https://cdn.ryplay10.com/20250126/35977_51b92f06/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025湖南春晚
-https://v.cdnlz21.com/20250126/4872_dc38bbd1/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025湖南春晚
-https://c1.7bbffvip.com/video/2025hunanweishixiaonianyechunwan/HD/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025湖南春晚
-https://v5.qrssv.com/202501/26/4XKfNheidE21/video/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025湖南春晚
-https://cdn.ryplay10.com/20250126/35977_51b92f06/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025湖南春晚
-https://v.cdnlz21.com/20250126/4872_dc38bbd1/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025河南春晚
-https://play.modujx11.com/20250127/9Yljzd4n/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025河南春晚
-https://cdn.ryplay10.com/20250126/36006_a86654d5/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025河南春晚
-https://svipsvip.ffzyread1.com/20250127/35406_62e44a80/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025山东春晚
-https://play.modujx11.com/20250128/3lqQwrom/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025安徽春晚
-https://play.modujx11.com/20250128/WGs0Su67/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025天津相声春晚
-https://cdn.ryplay10.com/20250130/36135_7b945be4/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025天津相声春晚
-https://v.cdnlz21.com/20250130/5031_3ed80174/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025辽宁春晚上
-https://cdn.ryplay10.com/20250128/36082_dba1a987/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025辽宁春晚下
-https://cdn.ryplay10.com/20250128/36084_e64309bc/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025辽宁春晚上
-https://v.cdnlz21.com/20250128/4980_b61091f5/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025辽宁春晚下
-https://svipsvip.ffzyread1.com/20250129/35457_6898fca8/index.m3u8
-#EXTINF:-1 group-title="春节晚会",2025央视春晚
-https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 #EXTINF:-1 group-title="春节晚会",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 #EXTINF:-1 group-title="春节晚会",春晚1984
@@ -607,6 +547,8 @@ https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTl
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 #EXTINF:-1 group-title="春节晚会",春晚2024
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+#EXTINF:-1 group-title="春节晚会",2025央视春晚
+https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 #EXTINF:-1 group-title="北京频道",重温经典
 http://148.135.93.213:81/live.php?id=重温经典
 #EXTINF:-1 group-title="卫视频道",五星体育
