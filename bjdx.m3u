@@ -37,6 +37,8 @@ http://192.168.28.1:23234/rtp/225.1.8.189:8002
 http://192.168.28.1:23234/rtp/225.1.8.17:8144
 #EXTINF:-1 tvg-name="cctv4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="中央频道",CCTV4K
 http://192.168.28.1:23234/rtp/225.1.8.224:2000
+#EXTINF:-1 tvg-name="cctv4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="中央频道",CCTV4K
+http://192.168.28.1:23234/rtp/225.1.8.223:2000
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4欧洲.png" group-title="中央频道",CCTV4欧洲
 http://192.168.28.1:23234/rtp/225.1.8.174:4222
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.cn/tv/CCTV4美洲.png" group-title="中央频道",CCTV4美洲
@@ -53,6 +55,10 @@ http://192.168.28.1:23234/rtp/225.1.8.179:4222
 http://192.168.28.1:23234/rtp/225.1.8.180:4222
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="中央频道",CGTN俄语
 http://192.168.28.1:23234/rtp/225.1.8.181:4222
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="北京频道",北京卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.128:8002
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="北京频道",北京卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.120:8002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="北京频道",北京卫视
 http://192.168.28.1:23234/rtp/225.1.8.21:8002
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.cn/tv/北京文艺.png" group-title="北京频道",北京文艺
