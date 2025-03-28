@@ -265,3 +265,11 @@ http://222.129.140.198:8888/rtp/239.3.1.86:4120
 http://222.129.140.198:8888/rtp/239.3.1.87:4120
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="体验频道",足球
 http://222.129.140.198:8888/rtp/239.3.1.89:4120
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京频道",北京卫视4K
+http://222.129.140.198:8888/rtp/239.3.1.22:8001
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京频道",北京卫视4K超高清
+http://222.129.140.198:8888/rtp/239.3.1.118:8001
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京频道",北京卫视4K单播
+rtsp://61.135.88.136/PLTV/88888892/224/3221226182/390398577.smil
+#EXTINF:-1 tvg-name="北京卫视" group-title="北京频道",北京卫视4K超高清单播
+rtsp://61.135.88.136/PLTV/88888892/224/3221226184/391328653.smil
