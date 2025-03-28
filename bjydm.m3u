@@ -263,3 +263,23 @@ rtp://228.1.1.167:4120
 rtp://228.1.1.168:4120
 #EXTINF:-1 tvg-name="足球" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="体验频道",足球
 rtp://228.1.1.170:4120
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="超高清频道",北京体育休闲
+rtp://228.1.1.234:8002
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="超高清频道",北京体育休闲
+rtp://228.1.1.101:8000
+#EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://live.fanmingming.cn/tv/北京体育休闲.png" group-title="超高清频道",北京体育休闲
+rtp://228.1.1.117:8000
+#EXTINF:-1 tvg-name="北京8K" tvg-logo="https://live.fanmingming.cn/tv/北京8K.png" group-title="超高清频道",北京8K
+rtp://228.1.1.217:8002
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="超高清频道",CCTV16
+rtp://228.1.1.218:8002
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="超高清频道",CCTV16
+rtp://228.1.1.216:8002
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="超高清频道",CCTV16
+rtp://228.1.1.216:8002
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="超高清频道",CCTV4K
+rtp://228.1.1.227:2000
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="超高清频道",爱上4K
+rtp://228.1.1.38:2000
+#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/4K超清.png" group-title="超高清频道",4K超清
+rtp://228.1.1.123:8001
