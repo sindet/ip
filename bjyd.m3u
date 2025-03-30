@@ -341,7 +341,7 @@ http://192.168.28.1:23234/rtp/228.1.1.217:8002
 http://192.168.28.1:23234/rtp/228.1.1.235:8002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4K
 http://192.168.28.1:23234/rtp/228.1.1.234:8002
-#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png.png" group-title="超高清频道",纪实科教8K
+#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png" group-title="超高清频道",纪实科教8K
 http://192.168.28.1:23234/rtp/228.1.1.217:8002
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="超高清频道",爱上4K
 http://192.168.28.1:23234/rtp/228.1.1.38:2000
