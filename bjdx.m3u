@@ -275,5 +275,5 @@ http://192.168.28.1:23234/rtp/225.1.8.128:8002
 http://192.168.28.1:23234/rtp/225.1.8.120:8002
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="超高清频道",爱上4K
 http://192.168.28.1:23234/225.1.8.80:2000
-#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/4K超清.png" group-title="超高清频道",4K超清
+#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
 http://192.168.28.1:23234/rtp/225.1.8.211:8002
