@@ -269,15 +269,15 @@ http://192.168.28.1:23234/rtp/239.3.1.89:4120
 http://192.168.28.1:23234/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="超高清频道",CCTV16HDR
 http://192.168.28.1:23234/rtp/239.3.1.183:8001
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="超高清频道",北京卫视4KHDR
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4KHDR
 http://192.168.28.1:23234/rtp/239.3.1.118:8001
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="超高清频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4K
 http://192.168.28.1:23234/rtp/239.3.1.22:8001
-#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="https://live.fanmingming.cn/tv/北京冬奥纪实.png" group-title="超高清频道",北京冬奥纪实HDR
+#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="超高清频道",北京冬奥纪实HDR
 http://192.168.28.1:23234/rtp/239.3.1.120:8000
-#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="https://live.fanmingming.cn/tv/北京冬奥纪实.png" group-title="超高清频道",北京冬奥纪实
+#EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="超高清频道",北京冬奥纪实
 http://192.168.28.1:23234/rtp/239.3.1.121:8000
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="超高清频道",爱上4K
 http://192.168.28.1:23234/239.3.1.236:2000
-#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/4K超清.png" group-title="超高清频道",4K超清
+#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
 http://192.168.28.1:23234/rtp/239.3.1.249:8001
