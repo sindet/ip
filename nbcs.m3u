@@ -14,20 +14,20 @@ http://192.168.28.1:23234/rtp/228.1.1.217:8002
 http://192.168.28.1:23234/rtp/228.1.1.235:8002
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4K
 http://192.168.28.1:23234/rtp/228.1.1.234:8002
-#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png.png" group-title="超高清频道",纪实科教8K
+#EXTINF:-1 tvg-name="纪实科教8K" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png" group-title="超高清频道",纪实科教8K
 http://192.168.28.1:23234/rtp/228.1.1.217:8002
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="超高清频道",爱上4K
 http://192.168.28.1:23234/rtp/228.1.1.38:2000
-#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
+#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
 http://192.168.28.1:23234/rtp/228.1.1.123:8001
 #联通
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="超高清频道",CCTV4KHDR
 http://192.168.28.1:23234/rtp/239.3.1.245:2000
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="超高清频道",CCTV16HDR
 http://192.168.28.1:23234/rtp/239.3.1.183:8001
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4KHDR
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4KHDR
 http://192.168.28.1:23234/rtp/239.3.1.118:8001
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="超高清频道",北京卫视4K
 http://192.168.28.1:23234/rtp/239.3.1.22:8001
 #EXTINF:-1 tvg-name="北京冬奥纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="超高清频道",北京冬奥纪实HDR
 http://192.168.28.1:23234/rtp/239.3.1.120:8000
@@ -35,7 +35,7 @@ http://192.168.28.1:23234/rtp/239.3.1.120:8000
 http://192.168.28.1:23234/rtp/239.3.1.121:8000
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="超高清频道",爱上4K
 http://192.168.28.1:23234/239.3.1.236:2000
-#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
+#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
 http://192.168.28.1:23234/rtp/239.3.1.249:8001
 #电信
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="超高清频道",CCTV4K
@@ -48,5 +48,5 @@ http://192.168.28.1:23234/rtp/225.1.8.128:8002
 http://192.168.28.1:23234/rtp/225.1.8.120:8002
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://live.fanmingming.cn/tv/爱上4K.png" group-title="超高清频道",爱上4K
 http://192.168.28.1:23234/225.1.8.80:2000
-#EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
+#EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
 http://192.168.28.1:23234/rtp/225.1.8.211:8002
