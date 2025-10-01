@@ -277,3 +277,19 @@ http://192.168.28.1:23234/rtp/225.1.8.120:8002
 http://192.168.28.1:23234/225.1.8.80:2000
 #EXTINF:-1 tvg-name="4K超清" tvg-logo="https://live.fanmingming.cn/tv/北京IPTV4K.png" group-title="超高清频道",4K超清
 http://192.168.28.1:23234/rtp/225.1.8.211:8002
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="超高清频道",湖南卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.100:3002
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="超高清频道",东方卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.40:3006
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="超高清频道",浙江卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.102:3004
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="超高清频道",江苏卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.197:3003
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="超高清频道",深圳卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.164:2000
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="超高清频道",广东卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.65:2000
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="超高清频道",山东卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.101:3005
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="超高清频道",四川卫视4K
+http://192.168.28.1:23234/rtp/225.1.8.104:3001
